@@ -19,9 +19,13 @@
 * Dns
 
 # How To Use:
-Just Run the "mailer.py" file with python3 :wink:
+clone the repository to your local machine by using the following command in your terminal (Or just downlaod the project).
 <br>
-Use this command in the terminal.
+`git clone https://github.com/AkibSadmanee/Mailfinder.git`
+<br>
+Then just Run the "mailer.py" file with python3 :wink:
+<br><br>
+Use this command in the terminal to run the code.
 <br>
 `python3 mailer.py`
 <br><br>
