@@ -30,10 +30,5 @@ def checkDependencies():
         import dns
     except ImportError:
         packages.append('dnspython not installed')
-   
-    try:
-        import tkinter
-    except ImportError:
-        packages.append('tkinter(3.x) not installed')
     
     return packages
