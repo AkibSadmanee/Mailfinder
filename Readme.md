@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/AkibSadmanee/mailer/blob/master/Fig/logo.png">
+  <img src="https://github.com/AkibSadmanee/mailfinder/blob/master/Fig/logo.png">
   <br>
   <h2 align="center">The Mail Finder</h2>
 </p>
