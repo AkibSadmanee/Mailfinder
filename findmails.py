@@ -11,7 +11,6 @@ from netSurfer import search
 from linkCollector import getLinks
 from emailActivityChecker import checkActivity
 from emailCollector import getEmails
-from emailsender import sendEmail
 from webdriver import getDriver
 from progress import printProgressBar
 from saveEmails import save2file
