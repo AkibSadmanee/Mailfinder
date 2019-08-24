@@ -23,6 +23,7 @@
 # How To Use:
 Just Run the "mailer.py" file with python3 :wink:
 <br>
+The crawled email addresses will appear in the "Emails" folder. The filename will be the same as your search-keyword.
 <br>
 <br>
 Credits:<br>
