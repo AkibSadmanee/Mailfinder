@@ -21,6 +21,11 @@
 # How To Use:
 Just Run the "mailer.py" file with python3 :wink:
 <br>
+`python3 mailer.py`
+<br>
+If you are in windows and python3 is set as the active python version then the following command will suffice.
+`python mailer.py`
+<br>
 The crawled email addresses will appear in the "Emails" folder. The filename will be the same as your search-keyword.
 <br>
 <br>
