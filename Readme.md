@@ -44,7 +44,7 @@ Chromedrivers: https://chromedriver.chromium.org/downloads
 <h3>Credits:</h3>
 Email acitivity checker: https://www.scottbrady91.com/Email-Verification/Python-Email-Verification-Script
 
-<h3>Warning about using this aactivity checker service</h3>
+<h3>Warning about using this activity checker service</h3>
 Warnings and Disclaimers
 Whilst this process will get you up and running, you need to be aware of the following:
 <ul>
