@@ -32,7 +32,7 @@ If you are in windows and python3 is set as the active python version then the f
 The crawled email addresses will appear in the <strong>"Emails"</strong> folder (Automatically generated). The filename will be the same as your search-keyword.
 <br><br>
 <h4>
-If it doesn't work and throw error with Chromedriver, that means the chromedriver I have provided and the chrome version you have doesn't match. try downloading a chromedriver from the same version range of chrome that you have.
+If it doesn't work and throw error with Chromedriver, that means the chromedriver I have provided and the chrome version you have doesn't match. try downloading a chromedriver from the same version range of chrome that you have and replacing that with the provided chromedriver.
 </h4>
 Chromedrivers: https://chromedriver.chromium.org/downloads
 
