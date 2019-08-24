@@ -12,5 +12,4 @@ def getDriver():
     driver = webdriver.Chrome(chrome_path,chrome_options=chrome_options)    
     
     driver.set_window_size(0,0)
-    driver.set_window_position(15000,15000)
     return driver
