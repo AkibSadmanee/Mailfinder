@@ -17,8 +17,6 @@
 * Lxml
 * Smtplib
 * Dns
-* Tkinter
-* Pymysql
 
 # How To Use:
 Just Run the "mailer.py" file with python3 :wink:
