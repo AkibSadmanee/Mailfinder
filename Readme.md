@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Search a keyword in google, Get email addresses related to that keyword!! 
+  Search keywords in google, Get email addresses related to that keyword!! 
 </p>
 
 > Language Used: Python3 <br>
