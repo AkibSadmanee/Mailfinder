@@ -44,4 +44,12 @@ Chromedrivers: https://chromedriver.chromium.org/downloads
 <h3>Credits:</h3>
 Email acitivity checker: https://www.scottbrady91.com/Email-Verification/Python-Email-Verification-Script
 
-
+<h3>Warning about using this aactivity checker service</h3>
+Warnings and Disclaimers
+Whilst this process will get you up and running, you need to be aware of the following:
+<ul>
+  <li>Do this too much and you will get put on a naughty list (e.g. Spamhaus), especially if you are using a dynamic IP address from your ISP.</li>
+  <li>B2C addresses: this does not work very well against the big boys who have their own procedures and spam rules (e.g.hotmail and yahoo).</li>
+  <li>Incorrect results: some mail servers will give you incorrect results, for instance catch-all servers, which will accept all incoming email addresses, often forwarding incoming emails to a central mailbox. Yahoo addresses displays this catch-all behavior.</li>
+</ul>
+<h3>You may want to use VPN for the 1st warning</h3>
