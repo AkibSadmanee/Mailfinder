@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/AkibSadmanee/mailer/blob/master/Fig/logo.png">
   <br>
-  <h2 align="center">The Mailer</h2>
+  <h2 align="center">The Mail Finder</h2>
 </p>
 
 <p align="center">
