@@ -21,16 +21,8 @@
 # How To Use:
 clone the repository to your local machine by using the following command in your terminal (Or just downlaod the project).
 <br>
-`git clone https://github.com/AkibSadmanee/Mailfinder.git`
-<br>
-Then just Run the "mailer.py" file with python3 :wink:
-<br><br>
-Use this command in the terminal to run the code.
-<br>
-`python3 mailer.py`
-<br><br>
-If you are in windows and python3 is set as the active python version then the following command will suffice.
-<br>
+`git clone https://github.com/AkibSadmanee/Mailfinder.git`<br>
+`cd Mailfinder`<br>
 `python mailer.py`
 <br><br><br>
 The crawled email addresses will appear in the <strong>"Emails"</strong> folder (Automatically generated). The filename will be the same as your search-keyword.
